@@ -214,6 +214,10 @@ Di akhir program, nilai 0 dikembalikan ke sistem operasi melalui return 0;, mena
 
 **No 1**
 
+Buatlah program menggunakan tipe data primitif minimal dua fungsi dan bebas. 
+Menampilkan program, jelaskan program tersebut dan ambil kesimpulan dari 
+materi tipe data primitif!
+
 <p align="center">
   <img src="https://github.com/wisnuuu8/Praktikum-Struktur-Data-Assignment/blob/main/tugas%20praktikum/NO%201%20B/bagian%201.png" alt="Alt Text">
 </p>
@@ -253,6 +257,8 @@ Return 0:
 return 0;: Mengembalikan nilai 0 ke sistem operasi, menandakan bahwa program telah berakhir dengan sukses.
 
 **No 2**
+
+Jelaskan fungsi dari class dan struct secara detail dan berikan contoh programnya
 
 <p align="center">
   <img src="https://github.com/wisnuuu8/Praktikum-Struktur-Data-Assignment/blob/main/tugas%20praktikum/NO%202/bagian%201.png" alt="Alt Text">
@@ -316,6 +322,9 @@ return 0;: Mengembalikan nilai 0 ke sistem operasi, menandakan bahwa program tel
 Program ini akan membuat objek titik p dengan koordinat (3.0, 4.0), dan objek persegi panjang r dengan panjang 5.0 dan lebar 6.0. Kemudian, program akan menampilkan koordinat objek p, luas dan dimensi objek r ke layar.
 
 **No 3**
+
+Buat dan jelaskan program menggunakan fungsi map dan jelaskan perbedaan dari 
+array dengan map
 
 <p align="center">
   <img src="https://github.com/wisnuuu8/Praktikum-Struktur-Data-Assignment/blob/main/tugas%20praktikum/NO%203/bagian%201.png" alt="Alt Text">
