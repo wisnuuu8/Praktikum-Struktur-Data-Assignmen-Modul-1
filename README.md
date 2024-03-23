@@ -6,7 +6,7 @@
 
 Bahasa pemrograman merupakan kumpulan aturan yang tersusun sedemikian rupa sehingga memungkinkan pengguna komputer membuat program yang dapat dijalankan sesuai dengan aturan tersebut. Pengelompokkan bahasa pemrograman dapat dilakukan dari berbagai sudut pandang, salah satunya adalah pendekatan notasi bahasa pemrograman tersebut, apakah lebih dekat ke bahasa mesin atau ke bahasa manusia. Dalam klasifikasi ini, bahasa pemrograman dibagi menjadi dua jenis, yaitu bahasa tingkat rendah (low-level languages) dan bahasa tingkat tinggi (high-level languages). Bahasa tingkat tinggi seperti C++ adalah contoh bahasa yang mudah dipahami oleh manusia, bersama dengan bahasa seperti Pascal, Perl, dan Java. Di sisi lain, bahasa tingkat rendah mencakup bahasa mesin dan bahasa assembly.
 
-Meskipun sebuah komputer hanya dapat mengeksekusi program yang ditulis dalam bentuk bahasa mesin, bahasa tingkat tinggi seperti C++ harus diproses terlebih dahulu sebelum bisa dijalankan oleh komputer. Proses ini memerlukan waktu tambahan, namun bahasa tingkat tinggi memiliki banyak keuntungan, termasuk kemudahan dalam pembelajaran, penulisan, dan pembacaan kode, serta kemudahan dalam menemukan kesalahan. Dalam makalah ini, kami akan membahas salah satu bahasa tingkat tinggi, yaitu C++, yang diciptakan oleh Bjarne Stroustrup pada tahun 1980-an. Sebagai bahasa yang berorientasi objek, C++ memfasilitasi pembuatan aplikasi yang berskala besar.
+Meskipun sebuah komputer hanya dapat mengeksekusi program yang ditulis dalam bentuk bahasa mesin, bahasa tingkat tinggi seperti C++ harus diproses terlebih dahulu sebelum bisa dijalankan oleh komputer. Bahasa tingkat tinggi adalah bahasa pemrograman yang berorientasi kepada bahasa manusia(Luh Joni Erawati Dewi,2010).Proses ini memerlukan waktu tambahan, namun bahasa tingkat tinggi memiliki banyak keuntungan, termasuk kemudahan dalam pembelajaran, penulisan, dan pembacaan kode, serta kemudahan dalam menemukan kesalahan. Dalam makalah ini, kami akan membahas salah satu bahasa tingkat tinggi, yaitu C++, yang diciptakan oleh Bjarne Stroustrup pada tahun 1980-an. Sebagai bahasa yang berorientasi objek, C++ memfasilitasi pembuatan aplikasi yang berskala besar.
 
 **RUMUSAN BELAKANG**
 
@@ -366,6 +366,12 @@ array dengan map
 `return 0;`: Mengakhiri eksekusi program dan mengembalikan nilai 0 ke sistem operasi, menandakan bahwa program telah berjalan dengan sukses.
 
 Dengan menggunakan kode tersebut, program akan menampilkan isi dari array dan map ke layar.
+
+**Daftar Pustaka**
+
+[1][1]	C. S. de Almeida et al., “No 主観的健康感を中心とした在宅高齢者における 健康関連指標に関する共分散構造分析Title,” Rev. Bras. Linguística Apl., vol. 5, no. 1, pp. 1689–1699, 2016, [Online]. Available: https://revistas.ufrj.br/index.php/rce/article/download/1659/1508%0Ahttp://hipatiapress.com/hpjournals/index.php/qre/article/view/1348%5Cnhttp://www.tandfonline.com/doi/abs/10.1080/09500799708666915%5Cnhttps://mckinseyonsociety.com/downloads/reports/Educati
+
+
 
 
 
