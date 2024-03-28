@@ -8,7 +8,7 @@ Bahasa pemrograman merupakan kumpulan aturan yang tersusun sedemikian rupa sehin
 
 Meskipun sebuah komputer hanya dapat mengeksekusi program yang ditulis dalam bentuk bahasa mesin, bahasa tingkat tinggi seperti C++ harus diproses terlebih dahulu sebelum bisa dijalankan oleh komputer. Bahasa tingkat tinggi adalah bahasa pemrograman yang berorientasi kepada bahasa manusia(Luh Joni Erawati Dewi,2010).Proses ini memerlukan waktu tambahan, namun bahasa tingkat tinggi memiliki banyak keuntungan, termasuk kemudahan dalam pembelajaran, penulisan, dan pembacaan kode, serta kemudahan dalam menemukan kesalahan. Dalam makalah ini, kami akan membahas salah satu bahasa tingkat tinggi, yaitu C++, yang diciptakan oleh Bjarne Stroustrup pada tahun 1980-an. Sebagai bahasa yang berorientasi objek, C++ memfasilitasi pembuatan aplikasi yang berskala besar.
 
-**RUMUSAN BELAKANG**
+**RUMUSAN MASALAH**
 
 1. Bagaimana mempelajari tipe data primitif, abstrak, dan kolektif. 
 2. Bagaimana memahami pengaplikasian pada tools yang digunakan. 
